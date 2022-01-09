@@ -20,7 +20,7 @@ This program was made by [aziddy](https://github.com/aziddy) and the original re
 - Download this repository
 - Open the folder
 - Once you open the folder, edit the *bombparty* file
-- Change the original path with your path which contain the bombparty folder, and add *web2* after *bombpartycheat-master/* Example "C:/Users/fyannz/Desktop/bombpartycheat-master/web2"
+- Change the original path with your path which contain the bombparty folder, and add *web2* after *bombpartycheat-master/* Example "C:/Users/fyannz/Desktop/bombpartycheat-fixed/web2"
 - Open CMD, change the direction to bombpartycheat folder
 - type **python bombparty.py**
 
