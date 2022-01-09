@@ -5,7 +5,7 @@ import sys
 import ctypes
 import clipboard
 
-ctypes.windll.kernel32.SetConsoleTitleW("BombParty Cheat")
+ctypes.windll.kernel32.SetConsoleTitleW("Bombparty Cheat")
 
 '''CHANGE TO YOUR OWN PATH'''
 path = "C:/Users/fyannz/Desktop/stuff/bombpartycheatt/web2"
