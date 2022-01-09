@@ -5,13 +5,16 @@ Gives you words that contain letters you entered in order. The gives you a full 
 This program was made by [aziddy](https://github.com/aziddy) and the original repository is [here](https://github.com/aziddy/bombpartycheat), Im just fixing the bug.
 
 
-## Fixed Bugs:
+## Update
 - Print statement error
 - Fixed **matchingWord**
 - Fixed **raw_input**
+- Founded words will be copied directly to the clipboard (**NEW**)
 
 ## Requirement:
-- pyperclip (type "pip install pyperclip" to install pyperclip)
+- pyperclip ('pip install pyperclip')
+- clipboard ('pip install clipboard')
+- ctypes ('pip install ctypes')
 
 ## How to use:
 - Download this repository
