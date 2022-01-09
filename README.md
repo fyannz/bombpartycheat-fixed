@@ -5,7 +5,7 @@ Gives you words that contain letters you entered in order. The gives you a full 
 This program was made by [aziddy](https://github.com/aziddy) and the original repository is [here](https://github.com/aziddy/bombpartycheat), Im just fixing the bug.
 
 
-## Update
+## Whats new?
 - Print statement error
 - Fixed **matchingWord**
 - Fixed **raw_input**
