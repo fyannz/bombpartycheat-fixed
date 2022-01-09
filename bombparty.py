@@ -4,7 +4,7 @@ import pyperclip
 import sys
 
 '''CHANGE TO YOUR OWN PATH'''
-path = "C:/Users/velkyz/Desktop/bombpartycheat-master/web2"
+path = "C:/Users/fyannz/Desktop/bombpartycheat-master/web2"
 
 ''' BOMB PARTY BOT'''
 
