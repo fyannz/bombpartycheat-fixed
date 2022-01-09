@@ -1,7 +1,7 @@
 # bombpartycheat (FIXED)
 Gives you words that contain letters you entered in order. The gives you a full english word that copies to your clipboard via pyperclip
 
-# Remember!
+# Note
 This program was made by [aziddy](https://github.com/aziddy) and the original repository is [here](https://github.com/aziddy/bombpartycheat), Im just fixing the bug.
 
 
