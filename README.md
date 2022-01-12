@@ -9,7 +9,8 @@ This program was made by [aziddy](https://github.com/aziddy) and the original re
 - Print statement error
 - Fixed **matchingWord**
 - Fixed **raw_input**
-- Founded words will be copied directly to the clipboard (**NEW**)
+- Founded words will be copied directly to the clipboard
+- Added 31865 words (**NEW**)
 
 ## Requirement:
 - pyperclip ('pip install pyperclip')
